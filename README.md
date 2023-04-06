@@ -136,3 +136,8 @@ php artisan serve
 | :-------- | :------- | :-------------------------------- |
 | `id`      | `string` | **Required**. ID of photo|
 
+
+## Postman
+
+[Link Postman](https://elements.getpostman.com/redirect?entityId=6679946-9708248e-516c-418d-bb91-f24d74f27a6c&entityType=collection)
+
