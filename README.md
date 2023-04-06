@@ -139,5 +139,7 @@ php artisan serve
 
 ## Postman
 
-[Link Postman](https://elements.getpostman.com/redirect?entityId=6679946-9708248e-516c-418d-bb91-f24d74f27a6c&entityType=collection)
+[Link Postman public](https://elements.getpostman.com/redirect?entityId=6679946-9708248e-516c-418d-bb91-f24d74f27a6c&entityType=collection)
+
+[Data Postman](https://github.com/Fadhila36/vhiweb/blob/master/data%20postman/Photo.postman_collection.json)
 
